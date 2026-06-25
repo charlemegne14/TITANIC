@@ -37,6 +37,6 @@ Projet classique d’analyse de données sur le jeu de données **Titanic**, cé
 
 ---
 
-**Auteur** : Augustin MI  
+**Auteur** : CHARLEMAGNE14
 **Date** : Février 2026  
 **Domaine** : Data Analysis • Statistiques • Étude de Cas
